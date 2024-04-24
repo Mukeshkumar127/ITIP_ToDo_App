@@ -1,0 +1,1 @@
+It is to-do list app. We can create to-do list app using html, css and javascript. In this to-do list app we can save our task  that has to be completed or if it is completed we can mark it as completed. We can also delete the task.
